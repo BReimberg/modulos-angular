@@ -1,4 +1,4 @@
-### Módulo Explorando o Angular Framework
+# Módulo Explorando o Angular Framework
 
 ## Aula: Módulos Angular
 
